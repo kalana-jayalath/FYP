@@ -1,0 +1,2 @@
+1. EEG signals were acquired from both of the ears , why?? is there a difference between the two signals ?
+or is it for the purpose of having more amplitude?? cant we use inbuilt amplifiers for a single amplifier?
